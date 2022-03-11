@@ -1,0 +1,85 @@
+.main {
+    width: 1440px;
+  background-color: hsl(217, 54%, 11%);
+  font-family: 'Outfit', sans-serif;
+}
+.box1 {
+  background-color: hsl(216, 50%, 16%);
+  height: 370px; 
+  width: 180px;
+  border: 2px black;
+  padding: 1px 90px 130px 20px;
+  border-radius: 10px;
+  margin-top: 50px;
+  margin-left: 595px;
+  box-shadow:5px 5px 5px 5px hsl(217, 54%, 11%);
+}
+
+.img0{
+    width: 140%;
+    border: 2px black;
+    border-radius: 10px;
+    padding: 1px 15px 1px 0px;
+    margin:10px 0px 10px 0px;
+    display: block;
+    height: 250px;
+}
+.head2{
+    color: whitesmoke;
+}
+.parag1{
+    width: 250px;
+    font-size: 18px;
+    color: hsl(215, 32%, 27%);
+}
+
+.img1{
+    width: 20px;
+    border:1px white;
+    position: relative;
+    bottom: 110px;
+
+}
+
+.line1{
+    width:250px;
+    height: 1px;
+    background-color:hsl(215, 32%, 27%);
+    border: none;
+    position: relative;
+    bottom: 110px;
+}
+
+.parag3{
+    position: relative;
+    left: 174px;
+    bottom: 114px;
+    color: hsl(215, 32%, 27%);
+}
+
+.parag2{
+    position:relative;
+    left: 15px;
+    bottom: 40px;
+}
+.parag4{
+    font-size: 13px;
+    position: relative;
+    left:30px;
+    bottom: 145px;
+    color: hsl(215, 32%, 27%);
+}
+
+.parag5{
+    color: hsl(0, 0%, 100%);
+    font-size: 14px;
+    position: relative;
+    left:102px;
+    bottom: 176px;
+}
+
+.img2{
+    position: relative;
+    left: 155px;
+    bottom: 76px;
+}
